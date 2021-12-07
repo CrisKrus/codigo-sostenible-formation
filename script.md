@@ -13,7 +13,7 @@ pero, antes dos puntos importantes
 
 ## Me presento
 
-Lo primero presentarme, mi nombre en las redes es Cristian Suárez Dev. 
+Lo primero presentarme, mi nombre en las redes es Cristian Suárez Dev.
 Soy desarrollador de software desde hace casi 4 años.
 Actualmente trabajo en Lean Mind con un grupo de personas maravillosas.
 Pueden encontrarme por todas estas redes sociales, para que les sea más cómodo he dejado el QR a mi web en el apartado de redes sociales.
@@ -77,13 +77,13 @@ Otro punto importante para tener un software sostenible es usar metodologias agi
 
 ## Diseñar código para el presente
 
-Otra caracteristica que es fundamental tener en cuenta es diseñar código para el presente. Hoy en dia vivimos en la era de la adaptacion, los objetivos van cambiando segun evoluciona el producto y los clientes. Ademas de, las correcciones que tenemos que hacer. 
+Otra caracteristica que es fundamental tener en cuenta es diseñar código para el presente. Hoy en dia vivimos en la era de la adaptacion, los objetivos van cambiando segun evoluciona el producto y los clientes. Ademas de, las correcciones que tenemos que hacer.
 
 Existe una idea en el mundillo bastante arraigada y extendida, que es la de escribir codigo generico y abstracto esperando que va a ser usado o lo van a necesitar en varios sitios. Anticipandonos a escenarios futuros que no sabremos si llegaran. Esto es perfecto para que sea insostenible nuestro software. Ya que programamos para que no requiera cambios nuestro codigo. Es mejor hacer codigo especifico, consiso y facil de modificar, ya tendremos tiempo de generalizar cuando este claro que queremos generalizar.
 
 ## El mito de la reutilizacion de codigo
 
-Al igual que en el punto anterior hacer codigo reutilizable es adelantarnos a saber si realmente va a ser reutilizado o no, llegado el momento en el que tenemos claro que se puede reutilizar podemos hacer un refactor y unificar logica si tiene sentido que lo hagamos. 
+Al igual que en el punto anterior hacer codigo reutilizable es adelantarnos a saber si realmente va a ser reutilizado o no, llegado el momento en el que tenemos claro que se puede reutilizar podemos hacer un refactor y unificar logica si tiene sentido que lo hagamos.
 
 ## Las reglas del codigo sostenible segun kent beck
 
@@ -113,7 +113,10 @@ Un lema que me gusta es "firme con el asunto, pero flexible con la persona"
 
 ## Bibliografia
 
-...
+Nombrar los libros que hemos usado de referencia y que la presentación la hemos hecho basada
+en el libro que esta por salir Código sostenible.
+
+Enlazar con la landing codigosostenible.com
 
 ## Gracias
 
@@ -122,5 +125,3 @@ Un lema que me gusta es "firme con el asunto, pero flexible con la persona"
 ## Hasta la proxima
 
 ...
-
-
