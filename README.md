@@ -7,6 +7,8 @@ de las diapositivas en el fichero [slides.html](slides.html)
 Estos recursos puedes verlos directamente en la [web del repositorio][github-pages].
 O directamente en los siguientes enlaces: [slides], [script].
 
+## [Diapositivas 👈][slides]
+
 ## Releases
 
 Actualmente esta sesion se ha impartido:
