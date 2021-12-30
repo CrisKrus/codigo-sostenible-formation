@@ -1,4 +1,7 @@
-# codigo-sostenible-formation
+# Codigo Sostenible
+
+foto mia de la charla
+foto mia en las redes sociales
 
 Recursos relacionados con la sesion de codigo sostenible. En este repositorio
 econtrarás lo que pretendía decir en el documento [script.md](script.md) además
@@ -19,13 +22,14 @@ más específicos que damos en el libro. Puedes ir a la web [codigosostenible.co
 
 Actualmente esta sesion se ha impartido:
 
-1. [CESINF, 2 de Diciembre de 2021](https://github.com/CrisKrus/codigo-sostenible-formation/releases/tag/CESINF-2021)
+1. [CESINF, 2 de Diciembre de 2021](https://github.com/CrisKrus/codigo-sostenible-formation/releases/tag/CESINF-2021). Video en [YouTube](https://www.youtube.com/watch?v=yECLWY2MtHE)
 
+---
 
 <h1 align="center">Hi 👋, I'm Cristian Suarez Dev</h1>
 <h3 align="center">A developer that loves learning</h3>
 
-- 👨‍💻 All of my projects are available at [criskrus.com](criskrus.com)
+- 👨‍💻 All of my projects are available at [cristiansuarez.dev](cristiansuarez.dev)
 
 - 📫 How to reach me **mail@criskrus.com**
 
