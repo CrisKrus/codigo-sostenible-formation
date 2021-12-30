@@ -1,8 +1,5 @@
 # Codigo Sostenible
 
-foto mia de la charla
-foto mia en las redes sociales
-
 Recursos relacionados con la sesion de codigo sostenible. En este repositorio
 econtrarás lo que pretendía decir en el documento [script.md](script.md) además
 de las diapositivas en el fichero [slides.html](slides.html)
